@@ -14,27 +14,31 @@ public class Data {
 	}
 
 	public int getMes() {
+		if(dia >= 1 && dia <= 31){
+			this.dia =dia;
+		}
 		return this.mes;
 	}
 
 	public int getAno() {
+
 		return this.ano;
 	}
 
 	public void setDia(int dia){
-	this.dia = dia;
+		this.dia = dia;
 	}
 
 	public void setMes(int mes){
-	this.mes = mes;
+		this.mes = mes;
 	}
 
 	public void setAno(int ano){
-	this.ano = ano;
+		this.ano = ano;
 	}
 	
 	@Override
 	public String toString(){
-		return "Data: " + getDia() + "/" +  getMes() + "/" + getAno() + "/";
+		return "Data: " + getDia() + "/" +  getMes() + "/" + getAno();
 		}
 }
