@@ -1,2 +1,2 @@
 # Java
-Esse repositório contém códigos e projetos de Java.
+Esse repositório contém códigos de treino em Java.
