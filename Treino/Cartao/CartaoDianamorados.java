@@ -8,3 +8,5 @@ public class CartaoDianamorados extends Cartao {
         return "Feliz Dia dos Namorados!";
     }
 }
+
+// Comentário de teste
