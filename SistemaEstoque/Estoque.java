@@ -1,5 +1,5 @@
-package SistemaEstoque;
-private String nome;
+public class Estoque {
+    private String nome;
     private double preco;
     private int quantidade;
 

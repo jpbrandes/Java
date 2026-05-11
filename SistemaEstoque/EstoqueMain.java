@@ -1,3 +1,4 @@
+package SistemaEstoque;
 public class EstoqueMain{
     public static void main (String args[]){
         Estoque estoque = new Estoque("Produto A", 10.0, 100);
