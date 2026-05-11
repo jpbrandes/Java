@@ -1,8 +1,8 @@
-public class ContaCorrente {
+public class ContaCorrenteSBS {
     private String titular;
     private double saldo;
 
-    public ContaCorrente(String titular, double saldoInicial) {
+    public ContaCorrenteSBS(String titular, double saldoInicial) {
         this.titular = titular;
         this.saldo = saldoInicial;
     }

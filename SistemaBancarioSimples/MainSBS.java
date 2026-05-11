@@ -1,6 +1,6 @@
-public class MainCC {
+public class MainSBS {
     public static void main(String[] args) {
-        ContaCorrente conta1 = new ContaCorrente("João Silva", 1000.00);
+        ContaCorrenteSBS conta1 = new ContaCorrenteSBS("João Silva", 1000.00);
         System.out.println("Titular: " + conta1.getTitular());
         System.out.println("Saldo inicial: R$" + conta1.getSaldo());
 
