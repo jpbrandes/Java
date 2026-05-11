@@ -1,0 +1,15 @@
+public class EstoqueMain{
+    public static void main (String args[]){
+        Estoque estoque = new Estoque("Produto A", 10.0, 100);
+        Estoque estoque = new Estoque("Produto B", 20.0, 200);
+        estoque.vender(20);
+        estoque.vender(107);
+        estoque.compra(50);
+        estoque.compra(30);
+        estoque.reajustar(10);
+        System.out.println("Nome: " + estoque.getNome());
+        System.out.println("Preço: " + estoque.getPreco());
+        System.out.println("Quantidade: " + estoque.getQuantidade());
+    }
+    
+}
