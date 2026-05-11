@@ -1,3 +1,4 @@
+package SistemaEstoque;
 public class Estoque {
     private String nome;
     private double preco;
