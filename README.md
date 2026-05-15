@@ -8,3 +8,5 @@ Cada pasta corresponde a um sistema simples com determinadas funções.
 - SistemaBancarioSimples: sistema básico de conta corrente.
 - SistemaEstoque: sistema básico de estoque.
 - Cartao: sistema de entrega de cartão.
+- SistemaEstoqueElaborado: sistema de estoque com mais funções.
+- SistemaCadastro: sistema de cadastro.
