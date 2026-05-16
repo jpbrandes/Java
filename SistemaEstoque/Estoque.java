@@ -1,4 +1,4 @@
-package SistemaEstoque;
+package SistemaEstoque; // Packages servem para organizar as classes em grupos, facilitando a manutenção e evitando conflitos de nomes.
 public class Estoque {
     private String nome;
     private double preco;

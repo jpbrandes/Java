@@ -10,3 +10,4 @@ Cada pasta corresponde a um sistema simples com determinadas funções.
 - Cartao: sistema de entrega de cartão.
 - SistemaEstoqueElaborado: sistema de estoque com mais funções.
 - SistemaCadastro: sistema de cadastro.
+- Geometria: sistema que calcula, área, perímetro de figuras geométricas.
