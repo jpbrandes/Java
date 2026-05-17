@@ -2,6 +2,7 @@
 
 - Esse repositório contém códigos de treino em Java.
 - Cada pasta corresponde a um sistema simples com determinadas funções.
+- Não possuem utilidade crítica real, mas são usados como uma boa base para fixar conceitos da linguagem Java. 
 
  ## Sistema cadastro
 
