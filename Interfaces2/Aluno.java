@@ -1,3 +1,4 @@
+package Interfaces2
 public class Aluno {
 
     private String nome;
