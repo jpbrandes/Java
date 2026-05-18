@@ -1,4 +1,4 @@
-package Interfaces2
+package Interfaces2;
 import javax.swing.JOptionPane;
 
 public class Principal {
