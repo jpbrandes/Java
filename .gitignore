@@ -5,3 +5,6 @@ out/
 .vscode/
 *.un
 *.un~
+/bin/
+.project
+.classpath
