@@ -22,5 +22,10 @@ public class PrincipalSEE {
         System.out.println("Preço: " + produto3.getPreco());
         System.out.println("Quantidade: " + produto3.getQuantidade());
         System.out.println("Data de Validade: " + produto3.getDatavalidade());
+        System.out.println("------------------------------");
+        System.out.println("Produto: " + produto3.getNome());
+        System.out.println("Preço: " + produto3.getPreco());
+        System.out.println("Quantidade: " + produto3.getQuantidade());
+        System.out.println("Data de Validade: " + produto3.getDatavalidade());
     }
 }
