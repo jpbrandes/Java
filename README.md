@@ -1,8 +1,5 @@
 # Java
-
-- Esse repositório contém códigos de treino em Java.
-- Cada pasta corresponde a um sistema simples com determinadas funções.
-- Não possuem utilidade crítica real, mas são usados como uma boa base para fixar conceitos da linguagem Java. 
+## Contém programas simples, visando o entendimento da fundação da linguagem Java.
 
  ## Sistema cadastro
 
@@ -40,4 +37,6 @@
 
  - Sistema mais complexo de cadastrao, utiliza for para realização de N cadastros e utiliza classe de interface para visibilidade. 
  
+## Interfaces 2
 
+- Aprofundamento no conceito de interfaces usado em Java.
