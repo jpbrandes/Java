@@ -1,42 +1,62 @@
 # Java
-## Contém programas simples, visando o entendimento da fundação da linguagem Java.
+Contém programas simples, visando o entendimento da fundação da linguagem Java.
 
- ## Sistema cadastro
+---
 
- - Um sistema simples de cadastro de pessoas.
+## Sistema cadastro
 
- ## Sistema de Estoque
+Um sistema simples de cadastro de pessoas.
 
- - Um sistema desenvolvido para mostrar produtos armazenados em um estoque.
+---
 
- ## Sistema Estoque Elaborado
+## Sistema de Estoque
 
- - Um outro sistema de estoque melhor programado que mostra preço, venda, compra, dentre outras funções.
+Um sistema desenvolvido para mostrar produtos armazenados em um estoque.
 
- ## Sistema Bancário
+---
 
- - Um sistema bancário com operações básicas de saque e depósito.
+## Sistema Estoque Elaborado
 
- ## Sistema Bancário Elaborado
+Um outro sistema de estoque melhor programado que mostra preço, venda, compra, dentre outras funções.
 
- - Sistema com funções adicionais e mais complexidade adicionada. Sistema mais robusto.
+---
 
- ## Métodos Estáticos Vetores
+## Sistema Bancário
 
- - Sistema que introduz conceitos de vetores em POO, sem utilidade real, apenas para aprendizado.
+Um sistema bancário com operações básicas de saque e depósito.
 
- ## Geometria 
+---
 
- - Repositório importante que calcula área de retângulo e quadrados, sendo o melhor repositório para aprender classes abstratas.
+## Sistema Bancário Elaborado
 
- ## Cartao
+Sistema com funções adicionais e mais complexidade adicionada. Sistema mais robusto.
 
- - Sistema de envio de cartões de feliz aniversário, dia dos namorados, entre outros. Um apanhado geral dos conteúdos básicos estudadose em Java.
+---
 
- ## Interfaces
+## Métodos Estáticos Vetores
 
- - Sistema mais complexo de cadastrao, utiliza for para realização de N cadastros e utiliza classe de interface para visibilidade. 
+Sistema que introduz conceitos de vetores em POO, sem utilidade real, apenas para aprendizado.
+
+---
+
+## Geometria 
+
+Repositório importante que calcula área de retângulo e quadrados, sendo o melhor repositório para aprender classes abstratas.
+
+---
+
+## Cartao
+
+Sistema de envio de cartões de feliz aniversário, dia dos namorados, entre outros. Um apanhado geral dos conteúdos básicos estudadose em Java.
+
+---
+
+## Interfaces
+
+Sistema mais complexo de cadastrao, utiliza for para realização de N cadastros e utiliza classe de interface para visibilidade. 
+
+---
  
 ## Interfaces 2
 
-- Aprofundamento no conceito de interfaces usado em Java.
+Aprofundamento no conceito de interfaces usado em Java.
