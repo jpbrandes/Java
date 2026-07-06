@@ -3,21 +3,9 @@ Contains simple programs aimed at understanding the foundation of the Java langu
 
 ---
 
-## Registration System
-
-A simple system for registering people.
-
----
-
 ## Inventory System
 
 A system developed to display products stored in an inventory.
-
----
-
-## Advanced Inventory System
-
-Another better-programmed inventory system that shows price, sale, purchase, among other functions.
 
 ---
 
