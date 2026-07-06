@@ -1,62 +1,50 @@
 # Java
-Contém programas simples, visando o entendimento da fundação da linguagem Java.
+Contains simple programs aimed at understanding the foundation of the Java language.
 
 ---
 
-## Sistema cadastro
+## Inventory System
 
-Um sistema simples de cadastro de pessoas.
-
----
-
-## Sistema de Estoque
-
-Um sistema desenvolvido para mostrar produtos armazenados em um estoque.
+A system developed to display products stored in an inventory.
 
 ---
 
-## Sistema Estoque Elaborado
+## Banking System
 
-Um outro sistema de estoque melhor programado que mostra preço, venda, compra, dentre outras funções.
-
----
-
-## Sistema Bancário
-
-Um sistema bancário com operações básicas de saque e depósito.
+A banking system with basic withdrawal and deposit operations.
 
 ---
 
-## Sistema Bancário Elaborado
+## Advanced Banking System
 
-Sistema com funções adicionais e mais complexidade adicionada. Sistema mais robusto.
-
----
-
-## Métodos Estáticos Vetores
-
-Sistema que introduz conceitos de vetores em POO, sem utilidade real, apenas para aprendizado.
+A system with additional functions and added complexity. A more robust system.
 
 ---
 
-## Geometria 
+## Static Methods Vectors
 
-Repositório importante que calcula área de retângulo e quadrados, sendo o melhor repositório para aprender classes abstratas.
+A system that introduces vector concepts in OOP, with no real utility, just for learning purposes.
 
 ---
 
-## Cartao
+## Geometry 
 
-Sistema de envio de cartões de feliz aniversário, dia dos namorados, entre outros. Um apanhado geral dos conteúdos básicos estudadose em Java.
+An important repository that calculates the area of rectangles and squares, being the best repository for learning abstract classes.
+
+---
+
+## Card
+
+A system for sending birthday cards, Valentine's Day cards, among others. A general summary of the basic content studied in Java.
 
 ---
 
 ## Interfaces
 
-Sistema mais complexo de cadastrao, utiliza for para realização de N cadastros e utiliza classe de interface para visibilidade. 
+A more complex registration system, using for-loops to perform N registrations and utilizing interface classes for visibility.
 
 ---
  
 ## Interfaces 2
 
-Aprofundamento no conceito de interfaces usado em Java.
+Deepening the concept of interfaces used in Java.
