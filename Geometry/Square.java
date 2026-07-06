@@ -1,5 +1,3 @@
-package Geometry;
-
 public class Square implements GeometricShape, ScalableShape {
     double side;
 

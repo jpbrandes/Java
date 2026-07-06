@@ -1,5 +1,3 @@
-package Interfaces2;
-
 import javax.swing.JOptionPane;
 
 public class Main {

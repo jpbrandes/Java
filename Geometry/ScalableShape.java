@@ -1,5 +1,3 @@
-package Geometry;
-
 public interface ScalableShape {
 
     double getDecrease();

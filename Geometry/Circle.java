@@ -1,5 +1,3 @@
-package Geometry;
-
 public class Circle implements GeometricShape, ScalableShape {
     double radius;
 

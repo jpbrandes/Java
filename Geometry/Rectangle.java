@@ -1,5 +1,3 @@
-package Geometry;
-
 public class Rectangle implements GeometricShape, ScalableShape {
     double base;
     double height;

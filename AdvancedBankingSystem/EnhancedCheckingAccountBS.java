@@ -1,5 +1,3 @@
-package BankingSystemEnhanced;
-
 public class EnhancedCheckingAccountBS {
 
     private String name;

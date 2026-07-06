@@ -1,5 +1,3 @@
-package Interfaces;
-
 import javax.swing.JOptionPane;
 
 public class Vector {

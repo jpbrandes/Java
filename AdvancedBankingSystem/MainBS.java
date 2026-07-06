@@ -1,5 +1,3 @@
-package BankingSystemEnhanced;
-
 public class MainBS {
 
     public static void main(String[] args) {

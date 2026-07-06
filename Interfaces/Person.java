@@ -1,5 +1,3 @@
-package Interfaces;
-
 public class Person {
 
     protected String name;

@@ -1,5 +1,3 @@
-package Geometry;
-
 public abstract class Parallelogram implements GeometricShape, ScalableShape {
     double base;
     double height;
